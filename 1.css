@@ -1,0 +1,152 @@
+#text1
+{
+  margin: auto;
+  width: 100%;
+  border: 5px solid green;
+  padding: 10px;
+}
+
+#display-1 
+{
+  font-size: 7rem;
+  line-height: 4.143;
+  letter-spacing: 1rem;
+  margin-top: 2;
+  margin-bottom: 1rem;
+}
+
+     
+
+
+
+
+
+.sign-up-form 
+{
+	width:300px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	padding: 50px ;
+	background-image: url("Images/bg5.jpg");
+	margin: 8% auto 0;
+	text-align: left;
+}
+.sign-up-form h1
+{
+	color: #1c8adb;
+	margin-bottom: 30px;
+}
+.input-box
+{
+	border-radius: 20px;
+	padding: 10px;
+	margin : 10px 0;
+	width: 100%;
+	border: 1px solid #999;
+	outline: none;
+}
+.button
+{
+	color: #fff;
+	width: 100px;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	margin: 10px 0;
+	border: none;
+	outline: none;
+	cursor: pointer;
+
+}
+.google-btn
+{
+	background-color: silver;
+}
+a
+{
+	text-decoration: none;
+}
+hr
+{
+	margin-top: 20px;
+	width:80%;
+}
+.or
+{
+	background: #fff;
+	width:30px;
+	margin: -19px auto 10px;
+}
+img
+{
+	width: 50px;
+	margin-top: -40px;
+}
+
+.btn
+{
+	width: 200px;
+	height: 50px;
+	border-radius: 20%;
+	border: 2px solid #A2D9CE;
+}
+
+.btn:hover {
+	background-color: #99ddff;
+}
+
+.demotext
+ {
+  color: #FFFFFF;
+  background: #232323;
+   text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+   color: #FFFFFF;
+   background: #232323;
+}
+
+.boxed {
+  border: 1px solid green ;
+}
+
+
+
+
+<!-- CSS For  Navigation Buttons-->
+
+
+.button{
+    height:1em;
+    padding:35px 60px;
+    margin:40px 60px;
+    cursor:pointer;
+    display:inline-block;
+    color:#FFF;
+    font-size:1em;
+    border:2px solid #eee;
+    background:#eee;
+    border-radius:4px;
+    line-height:2em;
+    border:1px solid #aaa;
+    text-decoration:none;
+
+    
+}
+
+.green{
+    background: -webkit-linear-gradient(top, #cdeb8e 0%,#a5c956 100%);
+}
+
+.red{
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff3019), color-stop(100%,#cf0404)); 
+}
+
+.yellow{
+    background: -webkit-linear-gradient(top, #ffd65e 0%,#febf04 100%); 
+}
+
+
+.blue{
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7abcff), color-stop(44%,#60abf8), color-stop(100%,#4096ee));
+
+
+
+
